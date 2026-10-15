@@ -40,3 +40,5 @@ Most analyzers require installation, accounts, or sending your code to a server.
 
 ## License
 MIT License - free to use and modify.
+## Disclaimer
+Anti-Error is provided for educational and development purposes only. It is not a substitute for professional security audits or manual code review. Always test your code thoroughly before using it in production.
