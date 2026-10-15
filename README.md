@@ -3,7 +3,7 @@
 A fast, browser-based static code analyzer that detects bugs, errors, and security issues in your code instantly. No installation, no server - everything runs 100% in your browser.
 
 ## Live Demo
-[Try Anti-Error Live](anti-error.netlify.app)
+[Try Anti-Error Live](https://anti-error.netlify.app)
 
 ## Features
 - Instant bug & error detection
